@@ -2,6 +2,11 @@
 
 God bless your INŻYNIERKA!
 
+<img width="2032" alt="Screenshot 2025-02-12 at 10 28 52" src="https://github.com/user-attachments/assets/056dd4ca-a6c5-4d48-ab30-e3eb6f08f2d4" />
+<img width="2032" alt="image" src="https://github.com/user-attachments/assets/2e758261-b519-4484-896c-5558d64b9fff" />
+
+
+
 ## Deploy to Azure - required to use AI features
 
 Use this link to deploy to Azure:
@@ -112,7 +117,7 @@ Files doesn't need to have names like `Opracowanie_1.pdf` or `Opracowanie_2.pdf`
 
 You can:
 
-- Filter questions by category, semester, and subject
-- Create a note with help of PDF files and AI
-- Mark questions as answered
-- Do Q&A session with Azure OpenAI (GPT-3.5-TURBO or GPT-4)
+- Filter questions by category, semester, subject and marked/answered
+- Open question modal and take a note with the help of uploaded PDF files and AI
+- Mark questions as marked/answered
+- Do Q&A session with Azure OpenAI (GPT-4 or GPT-3.5-TURBO)
