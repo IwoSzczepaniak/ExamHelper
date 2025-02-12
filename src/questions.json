@@ -1,0 +1,1268 @@
+{
+  "2": {
+    "subject": "Wprowadzenie do systemu UNIX",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj definicję systemu plików. Opisz podstawowe elementy uniksowego systemu plików."
+  },
+  "3": {
+    "subject": "Wprowadzenie do systemu UNIX",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co to są listy kontroli dostępu (Access Control List, ACL)? Jaki jest cel ich stosowania?"
+  },
+  "4": {
+    "subject": "Wprowadzenie do systemu UNIX",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Opisz działanie systemu kontyngentów (quota) w dyskowych systemach plików."
+  },
+  "5": {
+    "subject": "Wprowadzenie do systemu UNIX",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Na czym polega zmiana kontekstu pracy uniksowego systemu operacyjnego? Czym różni się od zmiany trybu?"
+  },
+  "6": {
+    "subject": "Wprowadzenie do systemu UNIX",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co to jest priorytet procesu w systemach uniksowych? Jak jest wyznaczany i do czego służy?"
+  },
+  "7": {
+    "subject": "Wprowadzenie do systemu UNIX",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Opisz mechanizm komunikacji między procesami w systemach uniksowych polegający na przesyłaniu sygnałów."
+  },
+  "8": {
+    "subject": "Wprowadzenie do systemu UNIX",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Opisz zastosowanie protokołu LDAP."
+  },
+  "9": {
+    "subject": "Wprowadzenie do systemu UNIX",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jakie jest zastosowanie protokołu Kerberos?"
+  },
+  "11": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw aspekty języka programowania."
+  },
+  "12": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów mechanizmy języka programowania zabezpieczające przed błędami."
+  },
+  "13": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw cele stosowania procedur i funkcji."
+  },
+  "14": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów typy numeryczne w językach programowania - różnice, zastosowania."
+  },
+  "15": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wymień przykłady typów strukturalnych."
+  },
+  "16": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw ideę reprezentacji znaków w kodzie UTF-8."
+  },
+  "17": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw sposoby przekazywania parametrów do procedur i funkcji."
+  },
+  "18": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów funkcję lambda i podaj zastosowanie."
+  },
+  "19": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów pojęcie rekurencji, zastosowanie, wady zalety."
+  },
+  "20": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj sposoby przydział pamięci dla zmiennych."
+  },
+  "21": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wynikiem czego jest nadmiar w obliczeniach stałopozycyjnych? Przedstaw sposób wykrywania go przez procesor."
+  },
+  "22": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw sposób kodowania liczb w systemie U2."
+  },
+  "23": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw sposoby zapisu wyrażeń."
+  },
+  "24": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Paradygmaty języków programowania - przykłady języków."
+  },
+  "25": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Interpretacja programu a kompilacja i wykonanie - wady i zalety."
+  },
+  "26": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co to jest rząd złożoności obliczeniowej? Podaj przykłady."
+  },
+  "27": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co to są problemy nierozstrzygalne? Podaj przykłady."
+  },
+  "28": {
+    "subject": "Wstęp do informatyki",
+    "semester": "1",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw bloki funkcjonalne prostego komputera."
+  },
+  "29": {
+    "subject": "Algorytmy i struktury danych",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw po jednym przykładzie algorytmów sortujących o złożoności czasowej O(n^2), O(nlogn) oraz O(n) i wyjaśnij kiedy każdy z nich jest dobrym wyborem."
+  },
+  "30": {
+    "subject": "Algorytmy i struktury danych",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wyjaśnij czym są algorytmy zachłanne."
+  },
+  "31": {
+    "subject": "Algorytmy i struktury danych",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "W jaki sposób znależć najkrótsze ścieżki między wszystkimi wierzchołkami w grafie ważonym?"
+  },
+  "32": {
+    "subject": "Algorytmy i struktury danych",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw trzy podstawowe techniki projektowania algorytmów."
+  },
+  "33": {
+    "subject": "Algorytmy i struktury danych",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "Czy algorytm o złożoności Theta(n^3) jest zawsze wolniejszy od algorytmu o złożoności Theta(n^2)?"
+  },
+  "34": {
+    "subject": "Algorytmy i struktury danych",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "Kiedy rozsądniejsze jest stosowanie macierzowej a nie listowej reprezentacji grafów?"
+  },
+  "36": {
+    "subject": "Algorytmy i struktury danych",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw na czym polega konstrukcja algorytmu w oparciu o programowanie dynamiczne."
+  },
+  "38": {
+    "subject": "Programowanie imperatywne",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co to są funkcje ze zmienną liczbą argumentów (variadic)?"
+  },
+  "39": {
+    "subject": "Programowanie imperatywne",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "W jaki sposób wywołanie funkcji z parametrami umieszczone w kodzie programu w języku C jest interpretowane przez kompilator? Opisz przypadki, kiedy deklaracja funkcji była widoczna i niewidoczna w momencie wywołania."
+  },
+  "40": {
+    "subject": "Programowanie imperatywne",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "Opisz proces budowy programu wykonywalnego z kodu źródłowego w języku C."
+  },
+  "41": {
+    "subject": "Programowanie imperatywne",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "W jaki sposób do funkcji można przekazać dane w postaci dwuwymiarowej tablicy? Podaj co najmniej 2 rozwiązania."
+  },
+  "42": {
+    "subject": "Programowanie imperatywne",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "Opisz zalety i wady VLA (Variable Length Array)."
+  },
+  "43": {
+    "subject": "Programowanie imperatywne",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "Opisz zasady przydziału pamięci dla zmiennych strukturalnych w języku C. Dlaczego się je stosuje?"
+  },
+  "44": {
+    "subject": "Programowanie imperatywne",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów zasadę działania bibliotecznej funkcji qsort() służącej do sortowania elementów tablicy dowolnego typu."
+  },
+  "45": {
+    "subject": "Programowanie imperatywne",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "Biblioteka studio języka C pozwala na otwarcie pliku w trybie tekstowym i binarnym. Czym różnią się te tryby?"
+  },
+  "46": {
+    "subject": "Programowanie imperatywne",
+    "semester": "2",
+    "category": "PYTANIA GENERALNE",
+    "question": "W jakiej postaci są zapisywane do plików dane zmiennych prostych, tablic i struktur za pomocą funkcji fread i fwrite biblioteki studio języka C? Czy są one przenośne?"
+  },
+  "47": {
+    "subject": "Podstawy baz danych",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj własności transakcji."
+  },
+  "48": {
+    "subject": "Podstawy baz danych",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Model związków encji – do czego służy, z jakich elementów się składa?"
+  },
+  "49": {
+    "subject": "Podstawy baz danych",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jaki jest cel wprowadzania kluczy w modelu relacyjnym? Podaj i omów rodzaje kluczy."
+  },
+  "50": {
+    "subject": "Podstawy baz danych",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj cel definiowania ograniczeń (warunków integralnościowych); przedstaw rodzaje warunków. Podaj w jaki sposób są sprawdzane?"
+  },
+  "51": {
+    "subject": "Podstawy baz danych",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co to jest algebra relacji? Wymień i omów podstawowe operatory."
+  },
+  "53": {
+    "subject": "Podstawy baz danych",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co to są widoki? Jaki jest cel stosowania widoków?"
+  },
+  "54": {
+    "subject": "Podstawy baz danych",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Indeksy – do czego służą, jakie znasz rodzaje?"
+  },
+  "55": {
+    "subject": "Programowanie funkcyjne",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Scharakteryzuj programowanie funkcyjne na tle (innych) stylów programowania."
+  },
+  "56": {
+    "subject": "Programowanie funkcyjne",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wyjaśnij pojęcie \"funkcja wyższego rzędu\" i podaj dwa przykłady zastosowań takich funkcji."
+  },
+  "57": {
+    "subject": "Programowanie funkcyjne",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wyjaśnij pojęcie \"typ algebraiczny”."
+  },
+  "58": {
+    "subject": "Programowanie funkcyjne",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wymień i krótko opisz trzy funkcyjne wzorce projektowe/obliczeniowe."
+  },
+  "59": {
+    "subject": "Programowanie funkcyjne",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wymień i krótko opisz rodzaje polimorfizmu stosowane w statycznie typowanych językach funkcyjnych."
+  },
+  "60": {
+    "subject": "Programowanie funkcyjne",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wymień i krótko opisz wybrane trzy rodzaje rekursji."
+  },
+  "62": {
+    "subject": "Programowanie funkcyjne",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wymień zalety i wady leniwego (lazy) obliczania wyrażeń."
+  },
+  "63": {
+    "subject": "Programowanie obiektowe",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów mechanizm dziedziczenia i jego związek z mechanizmem ukrywania implementacji na przykładzie języka Java."
+  },
+  "64": {
+    "subject": "Programowanie obiektowe",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów sposób działania oraz zastosowanie mechanizmu obsługi wyjątków na przykładzie języka Java."
+  },
+  "65": {
+    "subject": "Programowanie obiektowe",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów własności oraz zastosowanie interfejsów na przykładzie języka Java. Czym są metody domyślne w interfejsie?"
+  },
+  "66": {
+    "subject": "Programowanie obiektowe",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów własności oraz zastosowanie mechanizmu ukrywania implementacji na przykładzie języka Java."
+  },
+  "67": {
+    "subject": "Programowanie obiektowe",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wymień i omów 4 najważniejsze cechy języków obiektowych."
+  },
+  "68": {
+    "subject": "Programowanie obiektowe",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jakie różnice występują między klasami abstrakcyjnymi i interfejsami w języku Java?"
+  },
+  "69": {
+    "subject": "Programowanie obiektowe",
+    "semester": "3",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów przynajmniej 3 klasy (nie interfejsy) wbudowane w język Java, które reprezentują kolekcje."
+  },
+  "79": {
+    "subject": "Algorytmy geometryczne",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Co to jest otoczka wypukła dla chmury punktów w przestrzeni dwuwymiarowej? Na czym polega jej wyznaczanie? Jakie jest zastosowanie otoczki? Przytocz przynajmniej dwa algorytmy wyznaczania otoczki (bez szczegółowego opisu, ale charakteryzując ich sposób konstrukcji otoczki)."
+  },
+  "80": {
+    "subject": "Algorytmy geometryczne",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Jak można zdefiniować triangulację w przestrzeni dwuwymiarowej? Jakie warunki musi spełniać triangulacja? Opisz skrótowo poznane metody konstrukcji triangulacji w 2D."
+  },
+  "82": {
+    "subject": "Algorytmy geometryczne",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Na czym polegają algorytmy zamiatania? Co to jest struktura stanu i struktura zdarzeń w tych algorytmach? Jak powinno się dobierać te struktury w zależności od konkretnego algorytmu? Podaj przykład takiego algorytmu."
+  },
+  "83": {
+    "subject": "Algorytmy geometryczne",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Na czym polega problem lokalizacji punktu na płaszczyźnie? Opisz skrótowo poznane metody lokalizacji wymieniając ich cechy charakterystyczne."
+  },
+  "84": {
+    "subject": "Algorytmy geometryczne",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Omów pojęcie siatki 2D oraz pojęcie topologii siatki. Czym charakteryzują się siatki strukturalne i niestrukturalne? Omów trzy główne metody konstrukcji trójkątnych siatek niestrukturalnych."
+  },
+  "85": {
+    "subject": "Algorytmy geometryczne",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Na czym polega problem przeszukiwania obszarów na płaszczyźnie? Jak można wykorzystać drzewa quadtree i kd-tree w przeszukiwaniu obszarów ortogonalnych? Czym się charakteryzują te drzewa? Jakie są ich główne zalety i wady? Jakie są między nimi różnice w konstrukcji i przeszukiwaniu?"
+  },
+  "86": {
+    "subject": "Algorytmy grafowe",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Podaj definicję grafu przekątniowego oraz przykład problemu obliczeniowego, który jest trudny dla grafów ogólnych, ale da się go tanio rozwiązać dla grafów przekątniowych."
+  },
+  "87": {
+    "subject": "Algorytmy grafowe",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Opisz krótko działanie algorytmu LexBFS. Czym różni się on od zwykłego BFS?"
+  },
+  "88": {
+    "subject": "Algorytmy grafowe",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Opisz działanie algorytmu Forda-Fulkersona. Jaki problem rozwiązuje ten algorytm?"
+  },
+  "89": {
+    "subject": "Algorytmy grafowe",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Zdefiniuj skojarzenie w grafie. W jaki sposób można znaleźć najliczniejsze skojarzenie w grafie dwudzielnym?"
+  },
+  "90": {
+    "subject": "Algorytmy grafowe",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Co to jest graf planarny? Przytocz znane Ci twierdzenia dotyczące planarności."
+  },
+  "91": {
+    "subject": "Algorytmy grafowe",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Co to jest spójność krawędziowa grafu? Omów działanie algorytmu Stoera-Wagnera."
+  },
+  "92": {
+    "subject": "Algorytmy grafowe",
+    "semester": "3",
+    "category": "ALGO",
+    "question": "Omów związek pomiędzy problemem maksymalnego przepływu a problemem minimalnego przekroju"
+  },
+  "109": {
+    "subject": "Metody obliczeniowe w nauce i technice",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów własności numerycznej reprezentacji liczb rzeczywistych i arytmetyki zmiennoprzecinkowej."
+  },
+  "110": {
+    "subject": "Metody obliczeniowe w nauce i technice",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw zagadnienie stabilności algorytmów numerycznych w oparciu o przykłady poznane w ramach przedmiotu."
+  },
+  "111": {
+    "subject": "Metody obliczeniowe w nauce i technice",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Opisz sposoby wykorzystania metody divide and conquer w algorytmach numerycznych."
+  },
+  "112": {
+    "subject": "Metody obliczeniowe w nauce i technice",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj i scharakteryzuj przykłady użyteczności wielomianów ortogonalnych w obliczeniach numerycznych."
+  },
+  "113": {
+    "subject": "Metody obliczeniowe w nauce i technice",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Objaśnij na czym polega przewaga algorytmów faktoryzacji LU nad metodą eliminacji Gaussa."
+  },
+  "114": {
+    "subject": "Metody obliczeniowe w nauce i technice",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Porównaj kwadratury Newtona-Cotesa i Gaussa."
+  },
+  "115": {
+    "subject": "Metody obliczeniowe w nauce i technice",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Porównaj dwie dowolne metody rozwiązywania układów równań liniowych metodami iteracyjnymi."
+  },
+  "116": {
+    "subject": "Metody obliczeniowe w nauce i technice",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Scharakteryzuj wybraną metodę iteracyjną dla rozwiązywania równań nieliniowych."
+  },
+  "117": {
+    "subject": "Metody obliczeniowe w nauce i technice",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Opisz wybraną metodę generowania liczb losowych dla rozkładu, który nie jest jednostajny."
+  },
+  "127": {
+    "subject": "Systemy operacyjne",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Algorytmy szeregowania - przykłady zastosowanie algorytmów szeregowania ich charakterystyka."
+  },
+  "128": {
+    "subject": "Systemy operacyjne",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw mechanizmy synchronizacyjne występujące w popularnych systemach operacyjnych (Unix, Linux, Windows). Przedstaw mechanizmy synchronizacji stosowane w środowisku scentralizowanym i rozproszonym (co najmniej 2 przykłady z każdej grupy)."
+  },
+  "129": {
+    "subject": "Systemy operacyjne",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw podstawowe problemy synchronizacyjne. Omów problemy producentów-konsumentów, czytelników i pisarzy, pięciu Vilozofów i ich ró żne wersje, przykłady oraz zastosowanie w praktyce."
+  },
+  "130": {
+    "subject": "Systemy operacyjne",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Pojęcie zakleszczenia (deadlock). Warunki konieczne deadlock i metody ich unikania."
+  },
+  "131": {
+    "subject": "Systemy operacyjne",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Zarządzanie pamięcią wirtualną. Różnica pomiędzy stronicowanie a segmentacją – kto wyznacza podział na numer strony/segmentu i adres lokalny w każdej z metod?"
+  },
+  "133": {
+    "subject": "Systemy operacyjne",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Sposoby komunikacji procesu z systemem operacyjnym - jak proces wywołuje funkcje systemu operacyjnego?"
+  },
+  "134": {
+    "subject": "Systemy operacyjne",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jakie dodatkowe wymagania nałożone są na systemy czasu rzeczywistego i jak je osiągnąć?"
+  },
+  "135": {
+    "subject": "Technika cyfrowa",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co to są bramki trójstanowe i jakie mają zastosowanie w technice cyfrowej?"
+  },
+  "136": {
+    "subject": "Technika cyfrowa",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co to są tablice Karnaugh? Opisz ich budowę, sposób korzystania z nich oraz ich zastosowanie w technice cyfrowej."
+  },
+  "137": {
+    "subject": "Technika cyfrowa",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Czym różnią się cyfrowe układy synchroniczne od układów asynchronicznych? Podaj przykłady."
+  },
+  "138": {
+    "subject": "Technika cyfrowa",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Multipleksery i demultipleksery - różnice, zasada działania i zastosowanie."
+  },
+  "139": {
+    "subject": "Technika cyfrowa",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów dokładnie zjawisko hazardów w technice cyfrowej i przykładowe metody walki z tym zjawiskiem."
+  },
+  "140": {
+    "subject": "Technika cyfrowa",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów podstawowe rodzaje, budowę i zasadę działania rejestrów tworzonych w oparciu o układy techniki cyfrowej. Podaj praktyczne przykłady ich stosowania."
+  },
+  "141": {
+    "subject": "Technika cyfrowa",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów rodzaje, budowę i zasadę działania liczników stosowanych w technice cyfrowej."
+  },
+  "142": {
+    "subject": "Technika cyfrowa",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów zasadę działania jednobitowego półsumatora i sumatora. Czym się różnią?"
+  },
+  "143": {
+    "subject": "Technika cyfrowa",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Opisz dokładnie cztery podstawowe typy przerzutników stosowanych w technice cyfrowej i ich przykładowe odmiany oraz omów ich praktyczne zastosowanie."
+  },
+  "145": {
+    "subject": "Technika cyfrowa",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Opisz różnicę pomiędzy stosowanymi w technice cyfrowej układami kombinacyjnymi i układami sekwencyjnymi. Podaj kilka przykładów."
+  },
+  "146": {
+    "subject": "Teoria automatów i języków formalnych",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów klasyfikacja języków Chomsky’ego i jej znaczenie."
+  },
+  "147": {
+    "subject": "Teoria automatów i języków formalnych",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Które z postaci a) normalna Chomsky'ego, b) normalna Greibach, c) Backusa-Naura nie mają lewostronnej rekursji? Co to oznacza?"
+  },
+  "148": {
+    "subject": "Teoria automatów i języków formalnych",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Czy każda gramatyka w postaci normalnej Chomsky'ego jest: a) regularna, b) kontekstowa, c) bezkontekstowa?"
+  },
+  "149": {
+    "subject": "Teoria automatów i języków formalnych",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Dokończ zdanie: Gramatyka jest wieloznaczna, jeżeli:"
+  },
+  "150": {
+    "subject": "Teoria automatów i języków formalnych",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jakie przekształcenie jest niemożliwe algorytmicznie?"
+  },
+  "151": {
+    "subject": "Teoria automatów i języków formalnych",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj które z poniższych zdań są prawdziwe: I. każda gramatyka bezpośrednio lewostronnie rekursywna może być konwertowana do gramatyki prawostronnie rekursywnej, i wice wersa, II. Wszystkie epsilon produkcje mogą być usunięte z dowolnej gramatyki bezkontekstowej poprzez odpowiednie transformacje, IV. drzewo składniowe zawiera łańcuchy generowane przez gramatykę bezkontekstową w postaci normalnej Chomsk's ego, IV. Drzewo wyprowadzenia zwierające łańcuchy generowane gramatykę bezkontekstową w Normalnej postaci Chomsky’ego jest zawsze binarne."
+  },
+  "152": {
+    "subject": "Teoria automatów i języków formalnych",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Gramatyki bezkontekstowe mają większą moc/siłę wyrazu niż: a. DAS b.NAS, c.automat Mealy'ego d.wszystkie wymienione"
+  },
+  "153": {
+    "subject": "Teoria automatów i języków formalnych",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wybierz właściwą odpowiedź- Czy język kontekstowy jest akceptowany przez: a. Automat z liniowymi ograniczeniami, b.Automat deterministyczny ze stosem, c. DAS, d. NAS"
+  },
+  "154": {
+    "subject": "Teoria automatów i języków formalnych",
+    "semester": "4",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wybierz właściwą odpowiedź na ponizsze pytanie- Automat ze stosem może akceptować napis wejściowy poprzez: a. tylko stan końcowy, b. tylko pusty stos, c.stan końcowy i pusty stos, d.stan końcowy lub pusty stos"
+  },
+  "169": {
+    "subject": "Algorytmy tekstowe",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Omów budowę i przynajmniej jedno zastosowanie automatów skończonych w algorytmach tekstowych."
+  },
+  "170": {
+    "subject": "Algorytmy tekstowe",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Omów działanie algorytmu KMP w dopasowywaniu wzorców do tekstu."
+  },
+  "171": {
+    "subject": "Algorytmy tekstowe",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Omów budowę i zasadę konstrukcji drzew sufiksowych budowanych z wykorzystaniem algorytmu Ukkonena."
+  },
+  "172": {
+    "subject": "Algorytmy tekstowe",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Przedstaw definicję oraz omów algorytm obliczania odległości Levenshteina."
+  },
+  "173": {
+    "subject": "Algorytmy tekstowe",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Omów jak wygląda i do czego można wykorzystać drzewo Trie."
+  },
+  "175": {
+    "subject": "Algorytmy tekstowe",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Opisz w jaki sposób realizowana jest kompresja z wykorzystaniem statycznego algorytmu Huffmana."
+  },
+  "176": {
+    "subject": "Algorytmy tekstowe",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Omów możliwe zastosowania drzew sufiksów."
+  },
+  "177": {
+    "subject": "Elementy statystycznego uczenia maszynowego",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Co to jest rozkład a priori nad parametrem modelu? Co to jest rozkład a posteriori nad parametrem modelu?"
+  },
+  "178": {
+    "subject": "Elementy statystycznego uczenia maszynowego",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Co to jest 95% przedział wiarygodny? Z jakiego rozkładu wyznaczamy przedział wiarygodny?"
+  },
+  "179": {
+    "subject": "Elementy statystycznego uczenia maszynowego",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Podaj przykładową interpretację statystyczną dla regresji liniowej metodą najmniejszych kwadratów (OLS - ordinary least squares). Podaj przykładową interpretację statystyczną dla algorytmu regresji grzbietowej."
+  },
+  "180": {
+    "subject": "Elementy statystycznego uczenia maszynowego",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Podaj definicję procesu Gaussowskiego."
+  },
+  "181": {
+    "subject": "Elementy statystycznego uczenia maszynowego",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Przedstaw model regresji procesem Gaussowskim."
+  },
+  "182": {
+    "subject": "Elementy statystycznego uczenia maszynowego",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Przedstaw model dwuklasowej regresji logistycznej. Jak estymujemy parametr modelu dwuklasowej regresji logistycznej?"
+  },
+  "183": {
+    "subject": "Elementy statystycznego uczenia maszynowego",
+    "semester": "4",
+    "category": "ALGO",
+    "question": "Do czego służy algorytm importance sampling? Omów ogólną ideę tego algorytmu."
+  },
+  "201": {
+    "subject": "Podstawy sztucznej inteligencji",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wymień osiągnięcia badań nad sztuczną inteligencją w ostatnich 30 latach i krótko je scharakteryzuj."
+  },
+  "202": {
+    "subject": "Podstawy sztucznej inteligencji",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Czym różni się uczenie nadzorowane od nienadzorowanego?"
+  },
+  "204": {
+    "subject": "Podstawy sztucznej inteligencji",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jaka jest budowa sztucznych sieci neuronowych? Na czym polega specyfika sieci rekurencyjnych?"
+  },
+  "205": {
+    "subject": "Podstawy sztucznej inteligencji",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Na czym polega algorytm wstecznej propagacji błędu w sieci neuronowej? Skąd bierze się nazwa algorytmu?"
+  },
+  "206": {
+    "subject": "Podstawy sztucznej inteligencji",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Na czym polega iteracyjne wyszukiwanie w głąb i czy nie stanowi marnotrawstwa mocy obliczeniowej?"
+  },
+  "207": {
+    "subject": "Podstawy sztucznej inteligencji",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Na czym polega algorytm wyszukiwania A*?"
+  },
+  "208": {
+    "subject": "Sieci komputerowe",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw cechy adresacji MAC oraz adresacji IPv4 i IPv6. Omów strukturę tych adresów."
+  },
+  "210": {
+    "subject": "Sieci komputerowe",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw podobieństwa i różnice w funkcjonalności i zastosowaniach różnych protokołów warstwy transportowej."
+  },
+  "211": {
+    "subject": "Sieci komputerowe",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Routing w sieciach IP – proces decyzyjny węzłów sieci, tablica routingu."
+  },
+  "212": {
+    "subject": "Sieci komputerowe",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wirtualne sieci lokalne - koncepcja i zalety ich wykorzystania."
+  },
+  "213": {
+    "subject": "Sieci komputerowe",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw klasyfikację protokołów routingu dynamicznego stosowanych w sieciach IP, podaj przykłady reprezentantów klas."
+  },
+  "214": {
+    "subject": "Sieci komputerowe",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wymień i omów kilka systemowych poleceń stosowanych do diagnostyki poprawności konfiguracji i komunikacji w sieci uwzględniając różne warstwy modelu OSI/ISO."
+  },
+  "215": {
+    "subject": "Sieci komputerowe",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw zagadnienie odwzorowania adresacji IPv4 do adresacji MAC – cele, mechanizmy."
+  },
+  "216": {
+    "subject": "Technika mikroprocesorowa",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co to jest DMA (Direct Memory Access) w systemach mikroprocesorowych i jakie korzyści daje jego zastosowanie?"
+  },
+  "217": {
+    "subject": "Technika mikroprocesorowa",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw i zwięźle omów podstawowe cechy charakterystyczne lub różnice pomiędzy statycznymi i dynamicznymi pamięciami o dostępie swobodnym."
+  },
+  "218": {
+    "subject": "Technika mikroprocesorowa",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wymień podstawowe cechy pamięci Flash."
+  },
+  "219": {
+    "subject": "Technika mikroprocesorowa",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw ogólne porównanie mikroprocesorów RISC (Reduced Instruction Set Computer) oraz CISC (Complex Instruction Set Computer) pod kątem typowo dostępnych trybów adresowania."
+  },
+  "220": {
+    "subject": "Technika mikroprocesorowa",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co oznacza parametr CAS Latency (parametr nazywany 'CL') w kontekście pamięci synchronicznych, dynamicznych RAM?"
+  },
+  "221": {
+    "subject": "Technika mikroprocesorowa",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wyjaśnij na czym polega potokowe wykonywanie rozkazów w mikroprocesorach i jakie potencjalne korzyści można dzięki niemu odnieść."
+  },
+  "223": {
+    "subject": "Technika mikroprocesorowa",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wyjaśnij zwięźle, dlaczego zalecane jest stosowanie modyfikatora volatile w języku c/c++ dla zmiennych lub obiektów, do których uzyskujemy dostęp zarówno w funkcji obsługi przerwania jak i programie głównym."
+  },
+  "224": {
+    "subject": "Technika mikroprocesorowa",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wyjaśnij zwięźle, dlaczego zalecane jest stosowanie modyfikatora volatile w języku c/c++ przy uzyskiwaniu dostępu do rejestrów układów peryferyjnych odwzorowanych w przestrzeni adresowej."
+  },
+  "225": {
+    "subject": "Technika mikroprocesorowa",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Dlaczego przy tworzeniu niskopoziomowego oprogramowania działającego w czasie rzeczywistym często przyjmuje się zasadę, że czas wykonania funkcji obsługi przerwań powinien być jak najkrótszy?"
+  },
+  "226": {
+    "subject": "Teoria obliczeń i złożoności obliczeniowej",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw na czym polega problem stopu."
+  },
+  "227": {
+    "subject": "Teoria obliczeń i złożoności obliczeniowej",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Na czym polega problem P vs NP?"
+  },
+  "228": {
+    "subject": "Teoria obliczeń i złożoności obliczeniowej",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Czym jest hierarchia arytmetyczna?"
+  },
+  "229": {
+    "subject": "Teoria obliczeń i złożoności obliczeniowej",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co to jest klasa PSPACE?"
+  },
+  "230": {
+    "subject": "Teoria obliczeń i złożoności obliczeniowej",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jaka jest typowa strategia dowodzenia, że pewien problem A jest NP-zupełny?"
+  },
+  "231": {
+    "subject": "Teoria obliczeń i złożoności obliczeniowej",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Czy problem stwierdzenia, czy dana zmienna jest kiedykolwiek używana przez program w języku Python jest rozstrzygalny?"
+  },
+  "232": {
+    "subject": "Teoria obliczeń i złożoności obliczeniowej",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Czy istnieją problemy w klasie NP, które nie są rozwiązywalne wielomianowo ale nie są także NP-zupełne?"
+  },
+  "235": {
+    "subject": "Teoria współbieżności",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jakie znasz modele formalne przetwarzania współbieżnego? Podaj ich krótką charakterystykę."
+  },
+  "236": {
+    "subject": "Teoria współbieżności",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wymień podstawowe mechanizmy wsparcia przetwarzania współbieżnego dostępne na poziomie systemów operacyjnych. Omów krótko ich właściwości i warunki oraz środowiska, w których mogą być wykorzystywane."
+  },
+  "237": {
+    "subject": "Teoria współbieżności",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj zdarzeniowe definicje przetwarzania: sekwencyjnego, współbieżnego, rozproszonego i równoległego. Czy przetwarzanie rozproszone może być sekwencyjne? Jaka jest różnica pomiędzy przetwarzaniem współbieżnym a równoległym?"
+  },
+  "238": {
+    "subject": "Teoria współbieżności",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jakie są cechy wspólne modelu śladów Dikerta-Mazurkiewicza i algebry CSP?"
+  },
+  "239": {
+    "subject": "Teoria współbieżności",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj definicję uogólnionej sieci Petri oraz regułę odpalenia w takiej sieci."
+  },
+  "240": {
+    "subject": "Teoria współbieżności",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jaki system współbieżny jest sprawiedliwy? Jaki warunek musi spełnić każdy ciąg odpaleń, aby sieć Petri modelująca system współbieżny była sprawiedliwa?"
+  },
+  "241": {
+    "subject": "Teoria współbieżności",
+    "semester": "5",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj definicję macierzy wejść, wyjść i incydencji uogólnionej sieci Petri. Czy macierz incydencji determinuje dynamikę sieci uogólnionej?"
+  },
+  "258": {
+    "subject": "Algorytmy macierzowe",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Jaka jest najlepsza znana złożoność obliczeniowa algorytmu mnożenia macierzy, która może zostać użyta do mnożenia macierzy, które mieszczą się w pamięci aktualnie znanych komputerów?"
+  },
+  "259": {
+    "subject": "Algorytmy macierzowe",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Jaka jest najlepsza znana złożoność obliczeniowa algorytmu odwracania macierzy?"
+  },
+  "260": {
+    "subject": "Algorytmy macierzowe",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Kto odkrył algorytm eliminacji Gaussa?"
+  },
+  "261": {
+    "subject": "Algorytmy macierzowe",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Kto odkrył algorytm LU faktoryzacji i czym różni się on od algrytmu eliminacji Gaussa?"
+  },
+  "262": {
+    "subject": "Algorytmy macierzowe",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Omów wpływ złożoności obliczeniowej i implementacji algorytmu mnożenia macierzy na jego czas działania."
+  },
+  "263": {
+    "subject": "Algorytmy macierzowe",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Jaki hipotetyczna architektura komputera byłaby najlepsza do sekwencyjnego wykonania algorytmu mnożenia macierzy?"
+  },
+  "264": {
+    "subject": "Teoria kompilacji",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Wyjaśnij różnice między kompilacją a interpretacją, ich wady, zalety oraz przykłady łącznego stosowania obu technologii."
+  },
+  "265": {
+    "subject": "Teoria kompilacji",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Wyjaśnij pojęcie kompilacji just-in-time (JIT) oraz ahead-of-time (AOT)."
+  },
+  "266": {
+    "subject": "Teoria kompilacji",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Podaj podstawowe moduły/funkcje logiczne kompilatora. Które z nich tworzą przód (front-end), środek (middle-end) oraz tył (back-end) kompilatora?"
+  },
+  "267": {
+    "subject": "Teoria kompilacji",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Wyjaśnij różnice między analizą leksykalną a analizą syntaktyczną."
+  },
+  "268": {
+    "subject": "Teoria kompilacji",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Jakie mechanizmy lingwistyczne stosowane są przy analizie semantycznej i tłumaczeniu do kodu pośredniego? Wyjaśnij pojęcie gramatyki atrybutywnej, atrybutowanego drzewa rozbioru oraz translacji kierowanej składnią."
+  },
+  "269": {
+    "subject": "Teoria kompilacji",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Co to jest kod pośredni? Podaj co najmniej trzy sposoby reprezentacji kodu pośredniego, ich wady i zalety."
+  },
+  "270": {
+    "subject": "Teoria kompilacji",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Wyjaśnij pojęcie optymalizacji kodu. Wymień trzy podstawowe kryteria, ze względu na które optymalizowany jest kod."
+  },
+  "271": {
+    "subject": "Teoria kompilacji",
+    "semester": "5",
+    "category": "ALGO",
+    "question": "Wymień co najmniej pięć rodzajów optymalizacji."
+  },
+  "288": {
+    "subject": "Architektura komputerów",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj, na czym polega dopasowanie modelu programowania równoległego do wieloprocesorowej architektury komputera. Dlaczego ten problem jest istotny?"
+  },
+  "289": {
+    "subject": "Architektura komputerów",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Przedstaw zalety stosowania pamięci podręcznej w procesorach. Jakie problemy rodzi pamięć podręczna w komputerach o wielu procesorach przy wykorzystaniu ich w obliczeniach równoległych?"
+  },
+  "290": {
+    "subject": "Architektura komputerów",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Uszereguj w porządku rosnącym pracę (w pJ) potrzebną do realizacji operacji: (a) komunikacja pomiędzy systemami wchodzącymi w skład dużej infrastruktury obliczeniowej, (b) DPDRAM read, (c) komunikacja lokalna wewnątrz systemu, (d) DP FMADD flop."
+  },
+  "291": {
+    "subject": "Architektura komputerów",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jakie cechy szczególne procesorów predystynują je do zastosowań następującego typu: (a) obliczenia naukowo-techniczne, (b) obliczenia w zakresie sztucznej inteligencji i uczenia maszynowego? Jakie są dwa podstawowe rozwiązania architektoniczne proponowane przez producentów dużych komputerów w zakresie zapewnienia uniwersalności architektury?"
+  },
+  "292": {
+    "subject": "Architektura komputerów",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Czego dotyczą zasady Amdahla i Gustafsona? Jakie są ich podstawowe założenia? Czy mogą one być traktowane zamiennie?"
+  },
+  "293": {
+    "subject": "Architektura komputerów",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Omów benchmark HPCG i wyjaśnij dlaczego uchodzi on za bardziej wiarygodny od benchmarku LINPACK (HPL)."
+  },
+  "295": {
+    "subject": "Architektura komputerów",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jak zwiększa się wydajność współczesnych komputerów o wielu procesorach? Czy wzrost wydajności jest wynikiem wzrostu częstotliwości pracy poszczególnych elementów przetwarzających? Jakie są zagrożenia wzrostu wydajności komputerów wynikające z nowych technologii produkcji?"
+  },
+  "296": {
+    "subject": "Inżynieria oprogramowania",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj wady i zalety modelu kaskadowego."
+  },
+  "297": {
+    "subject": "Inżynieria oprogramowania",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wskaż 5 różnic miedzy metodykami zwinnymi a metodykami klasycznymi."
+  },
+  "298": {
+    "subject": "Inżynieria oprogramowania",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Co to jest Agile Manifesto?"
+  },
+  "299": {
+    "subject": "Inżynieria oprogramowania",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj znane Ci rodzaje testów w inżynierii oprogramowania."
+  },
+  "300": {
+    "subject": "Inżynieria oprogramowania",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj różnicę między weryfikacją i walidacją."
+  },
+  "301": {
+    "subject": "Inżynieria oprogramowania",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jakie znasz praktyki wspomagające utrzymanie jakości rozwiązania w projekcie?"
+  },
+  "302": {
+    "subject": "Inżynieria oprogramowania",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Scharakteryzuj role w podejściu Scrum."
+  },
+  "303": {
+    "subject": "Inżynieria oprogramowania",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Czym różni się podejście Kanban od Scrum?"
+  },
+  "304": {
+    "subject": "Systemy rozproszone",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wyjaśnij teorię CAP (Consistency, Atomicity, Partitioning). Jakie jest jej praktyczne znaczenie?"
+  },
+  "305": {
+    "subject": "Systemy rozproszone",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jaką funkcje w budowie oprogramowana systemów rozproszonych spełnia warstwa pośrednicząca (middleware)? Podaj przykłady tego typu środowisk."
+  },
+  "306": {
+    "subject": "Systemy rozproszone",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Wyjaśnij różnice pomiędzy protokołem 2PC (Two Phase Commit) i 2PL (Two Phase Locking)."
+  },
+  "307": {
+    "subject": "Systemy rozproszone",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Jakie własności posiadają systemy reaktywne?"
+  },
+  "308": {
+    "subject": "Systemy rozproszone",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Scharakteryzuj model aktora jako elementu systemu rozproszonego."
+  },
+  "309": {
+    "subject": "Systemy rozproszone",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj różnice pomiędzy serwisem nazewniczym a traderem."
+  },
+  "310": {
+    "subject": "Systemy rozproszone",
+    "semester": "6",
+    "category": "PYTANIA GENERALNE",
+    "question": "Podaj mechanizm zapewniający wykrycie relacji przyczynowo-skutkowej pomiędzy obserwowanymi zdarzeniami."
+  },
+  "330": {
+    "subject": "Algorytmy dla problemów trudnych obliczeniowo",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Co to jest algorytm c-aproksymacyjny?"
+  },
+  "331": {
+    "subject": "Algorytmy dla problemów trudnych obliczeniowo",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Co to znaczy, że problem ma algorytm FPT ze względu na parametr k?"
+  },
+  "332": {
+    "subject": "Algorytmy dla problemów trudnych obliczeniowo",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Czym intuicyjnie jest szerokość drzewowa grafu? Do czego służy?"
+  },
+  "333": {
+    "subject": "Algorytmy dla problemów trudnych obliczeniowo",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Czy istnieje algorytm dla problem SAT-3CNF o złożoności lepszej niż O*(2^n), gdzie n to liczba zmiennych wejściowej formuły."
+  },
+  "334": {
+    "subject": "Algorytmy dla problemów trudnych obliczeniowo",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Omów problem programowania całkowitoliczbowego (ILP)."
+  },
+  "335": {
+    "subject": "Algorytmy dla problemów trudnych obliczeniowo",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Omów problem spełnialności formuł logicznych w rachunku zdań (SAT)."
+  },
+  "337": {
+    "subject": "Algorytmy dla problemów trudnych obliczeniowo",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Wyjaśnij czym są sieci sortujące i do czego się przydają w kontekście problemu SAT."
+  },
+  "339": {
+    "subject": "Badania operacyjne",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Wymień elementy modelu matematycznego, które należy określić w trakcie jego budowy."
+  },
+  "340": {
+    "subject": "Badania operacyjne",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Przedstaw klasyfikację modeli matematycznych."
+  },
+  "341": {
+    "subject": "Badania operacyjne",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Co to jest programowanie liniowe? Wymień metody rozwiązywania zagadnień programowania liniowego."
+  },
+  "342": {
+    "subject": "Badania operacyjne",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Wyjaśnij krótko problem komiwojażera i wymień przykładowe metody stosowane do jego rozwiązania."
+  },
+  "343": {
+    "subject": "Badania operacyjne",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Krótko scharakteryzuj problem przepływowy (flow shop)."
+  },
+  "344": {
+    "subject": "Badania operacyjne",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Krótko scharakteryzuj grupę algorytmów stadnych (rojowych)."
+  },
+  "345": {
+    "subject": "Badania operacyjne",
+    "semester": "6",
+    "category": "ALGO",
+    "question": "Wskaż elementy adaptacji algorytmów rojowych w problemach dyskretnych."
+  }
+}
